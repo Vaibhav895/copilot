@@ -1,6 +1,4 @@
-{
-  "countries": [
-    {
+[   {
       "name": "India",
       "currency": {
         "code": "INR",
@@ -101,4 +99,4 @@
       "flag": "https://media.istockphoto.com/id/462515999/photo/south-african-flag.jpg?s=612x612&w=0&k=20&c=xtcuI6-4JlcE9Jva0aTUs54JNlWuwn-rpoQA_hFA99s="
     }
   ]
-}
+
