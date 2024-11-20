@@ -1,0 +1,102 @@
+
+    {
+      "name": "India",
+      "currency": {
+        "code": "INR",
+        "name": "Indian Rupee",
+        "symbol": "₹"
+      },
+      "prime_minister": "Narendra Modi",
+      "flag": "https://cdn.pixabay.com/photo/2016/08/24/17/07/india-1617463_1280.png"
+    },
+    {
+      "name": "United States",
+      "currency": {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      },
+      "prime_minister":"Joe Biden",
+      "flag": "https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_640.png"
+    },
+    {
+      "name": "United Kingdom",
+      "currency": {
+        "code": "GBP",
+        "name": "British Pound",
+        "symbol": "£"
+      },
+      "prime_minister": "Rishi Sunak",
+      "flag": "https://cdn.pixabay.com/photo/2015/11/06/13/29/union-jack-1027898_1280.jpg"
+    },
+    {
+      "name": "Canada",
+      "currency": {
+        "code": "CAD",
+        "name": "Canadian Dollar",
+        "symbol": "$"
+      },
+      "prime_minister": "Justin Trudeau",
+      "flag": "https://cdn.pixabay.com/photo/2016/02/29/23/17/canadian-flag-1229484_640.jpg"
+    },
+    {
+      "name": "Australia",
+      "currency": {
+        "code": "AUD",
+        "name": "Australian Dollar",
+        "symbol": "$"
+      },
+      "prime_minister": "Anthony Albanese",
+      "flag": "https://media.istockphoto.com/id/1092635968/vector/australia-flag.jpg?s=612x612&w=0&k=20&c=YEp_hCl7Ub0nteWFKh6HrZwSFzUh3xmEYWuJe-RRt5Y="
+    },
+    {
+      "name": "Germany",
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "prime_minister": "Olaf Scholz",
+      "flag": "https://media.istockphoto.com/id/691333546/vector/german-flag-flat-layout-vector-illustration.jpg?s=612x612&w=0&k=20&c=WA8VoZOYG2yCVuP7VldzO0h20nis9FDXnHclWdkGEFo="
+    },
+    {
+      "name": "France",
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "prime_minister": "Élisabeth Borne",
+      "flag": "https://media.istockphoto.com/id/657672390/vector/flag-of-france.jpg?s=612x612&w=0&k=20&c=VY7IIA5kGgMNL_G_Uio7BV8vuH30HUk_jYezBDrpees="
+    },
+    {
+      "name": "Japan",
+      "currency": {
+        "code": "JPY",
+        "name": "Japanese Yen",
+        "symbol": "¥"
+      },
+      "prime_minister": "Fumio Kishida",
+      "flag": "https://media.istockphoto.com/id/537287287/vector/flag-of-japan.jpg?s=612x612&w=0&k=20&c=ib29xXdb3_UtWw0S0Md0Mvbzz1DmsAA6Q5FP1X_4WZQ="
+    },
+    {
+      "name": "Brazil",
+      "currency": {
+        "code": "BRL",
+        "name": "Brazilian Real",
+        "symbol": "R$"
+      },
+      "prime_minister": "Luiz Inácio Lula da Silva",
+      "flag": "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg"
+    },
+    {
+      "name": "South Africa",
+      "currency": {
+        "code": "ZAR",
+        "name": "South African Rand",
+        "symbol": "R"
+      },
+      "prime_minister": "N/A (President: Cyril Ramaphosa)",
+      "flag": "https://media.istockphoto.com/id/462515999/photo/south-african-flag.jpg?s=612x612&w=0&k=20&c=xtcuI6-4JlcE9Jva0aTUs54JNlWuwn-rpoQA_hFA99s="
+    }
+
